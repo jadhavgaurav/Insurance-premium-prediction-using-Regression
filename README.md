@@ -15,6 +15,7 @@ This project focuses on predicting medical insurance charges based on various fa
 ## Dataset
 
 The dataset used for this project contains various attributes related to health and demographics that influence the medical insurance charges. It includes the following columns:
+
 - `age`: Age of the person.
 - `sex`: Gender of the person (male or female).
 - `bmi`: Body Mass Index (BMI) of the person.
