@@ -24,14 +24,3 @@ catboost_info/
 .vscode/
 .idea/
 
-# Ignore data files
-*.csv
-*.tsv
-
-# Ignore model and joblib files
-model.joblib
-y_transformer.joblib
-
-# Ignore other system files
-.DS_Store
-Thumbs.db
