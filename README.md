@@ -64,6 +64,8 @@ Feel free to open an issue or submit a pull request if you'd like to contribute 
 
 ---
 
+## Made with Love ❤️ by Gaurav
+
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
