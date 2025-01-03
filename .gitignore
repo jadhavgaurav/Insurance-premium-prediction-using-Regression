@@ -1,0 +1,37 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore CatBoost's info folder (typically contains models and logs)
+catboost_info/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore test and coverage files
+*.cover
+*.log
+*.tox/
+*.nox/
+*.coverage
+*.hypothesis/
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+
+# Ignore data files
+*.csv
+*.tsv
+
+# Ignore model and joblib files
+model.joblib
+y_transformer.joblib
+
+# Ignore other system files
+.DS_Store
+Thumbs.db
