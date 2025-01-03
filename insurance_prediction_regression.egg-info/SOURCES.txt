@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+insurance_prediction_regression.egg-info/PKG-INFO
+insurance_prediction_regression.egg-info/SOURCES.txt
+insurance_prediction_regression.egg-info/dependency_links.txt
+insurance_prediction_regression.egg-info/requires.txt
+insurance_prediction_regression.egg-info/top_level.txt
