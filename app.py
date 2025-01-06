@@ -5,7 +5,7 @@ import joblib
 from sklearn.exceptions import NotFittedError
 
 # Load the trained model and y transformer
-model_path = 'model.joblib'
+model_path = 'model_pipeline.joblib'
 y_transformer_path = 'y_transformer.joblib'
 model_pipeline = joblib.load(model_path)
 y_transformer = joblib.load(y_transformer_path)
