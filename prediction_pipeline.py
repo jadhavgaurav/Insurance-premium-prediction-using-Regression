@@ -13,6 +13,8 @@ from sklearn.metrics import r2_score
 import joblib
 from sklearn.tree import DecisionTreeRegressor
 from xgboost import XGBRegressor
+import warnings
+warnings.filterwarnings("ignore")
 
 # Load Data
 def load_data(filepath):

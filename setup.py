@@ -1,3 +1,6 @@
+import warnings
+warnings.filterwarnings("ignore")
+
 from setuptools import setup, find_packages, setup
 
 hyphen_e_dot = '-e .'
